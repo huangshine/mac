@@ -18,5 +18,5 @@ Input Source Pro
 
 轻松切换和跟踪输入源
 
-https://github.com/runjuu/InputSourcePro
+地址：https://github.com/runjuu/InputSourcePro
 ---------------------------------------------
