@@ -7,8 +7,7 @@ Github-Store：
 
 GitHub Store 是一个跨平台的应用商店，旨在简化发现和安装开源软件的过程。它会自动检测可安装的二进制文件（APK、EXE、DMG、AppImage、DEB、RPM），提供一键安装功能，跟踪更新，并以简洁的应用商店风格界面展示仓库信息。
 
-**地址：https://github.com/rainxchzed/Github-Store
-**
+地址：https://github.com/rainxchzed/Github-Store
 ---------------------------------------------
 
 剪贴板：
